@@ -1,0 +1,6 @@
+graphrag==0.3.6
+numpy==1.26.4
+openai==1.51.0
+pandas==2.2.2
+streamlit==1.39.0
+tiktoken==0.7.0

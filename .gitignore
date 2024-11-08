@@ -1,0 +1,12 @@
+# files to ignore
+.env
+settings.yaml
+
+# folders to ignore
+__pycache__/
+cache/
+generated_responses/
+input/
+output/
+prompts/
+
